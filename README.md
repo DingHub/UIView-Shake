@@ -3,6 +3,8 @@ A category of UIView to add some methods for shake animation<br>
 Thaks for [UIView+Shake](https://github.com/andreamazz/UIView-Shake) and [UITextFiled+Shake](https://github.com/andreamazz/UITextField-Shake)<br>
 
 You can find a Swift version here:[UIViewExtesion-Shake](https://github.com/DingHub/UIViewExtesion-Shake/tree/master)<br>
+
+
 Here are the shake methods~<br>
  ``` 
 - (void)shake;
