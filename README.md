@@ -15,3 +15,4 @@ Here are the shake methods~<br>
 - (void)shake:(NSUInteger)times withOffset:(CGFloat)offset speed:(NSTimeInterval)interval shakeDirection:(ShakeDirection)shakeDirection;
 - (void)shake:(NSUInteger)times withOffset:(CGFloat)offset speed:(NSTimeInterval)interval shakeDirection:(ShakeDirection)shakeDirection completion:(nullable void (^)(void))handler;
  ``` 
+![screenShot](https://github.com/DingHub/ScreenShots/blob/master/UIView-Shake/0.png)
